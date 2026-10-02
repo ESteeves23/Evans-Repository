@@ -1,11 +1,17 @@
 - # The Tale Of Peter Rabbit
 **ONCE** upon a time there
 were four little Rabbits,
-and their names were--
- _Flopsy_,
- _Mopsy_,
- _Cotton-tail_,
-and _Peter_.
+and their names were  
+
+ _Flopsy_,  
+ 
+ 
+ _Mopsy_,  
+ 
+ _Cotton-tail_,  
+ 
+and _Peter_.  
+
 They lived with their Mother
 in a sand-bank, underneath the
 root of a very big fir tree.
@@ -42,4 +48,3 @@ sick, he went to look for
 some parsley
 garden and squeezed under
 the gate!
-FIRST he at
